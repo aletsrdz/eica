@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">EICA 2019</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="menu_about">Aceca de ...</string>
+    <string name="menu_setting">Configuración</string>
+    <string name="menu_encuesta">Encuesta</string>
+    <string name="encuesta_titulo">Encuesta</string>
+    <string name="encuesta_p1">La exposición se desarrolló de manera: </string>
+    <string name="radiogClara">Clara</string>
+    <string name="radiogIncompleta">Incompleta</string>
+    <string name="radiogConfusa">Confusa</string>
+    <string name="encuesta_p2">El tema presentado despertó el interés a investigar más por tu propia cuenta. </string>
+    <string name="radiogp21">Sí</string>
+    <string name="radiogp22">No</string>
+    <string name="encuesta_p3">¿El equipo de cómputo ha funcionado adecuadamente? </string>
+    <string name="radiog1p3">Excelentes</string>
+    <string name="radiog2p3">Buenas</string>
+    <string name="radiog3p3">Regular</string>
+    <string name="radiog4p3">Malas</string>
+    <string name="radiog5p3">Muy malas</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Ubicación ENALLT</string>
+    <string name="title_activity_programa_detalle">Resumen</string>
+
+    <string name="welcome">Bienvenido al CILLT</string>
+    <string name="search_title">Buscar</string>
+    <string name="search_type_here">Escriba aquí</string>
+
+    <!-- Menu inicio -->
+    <string name="inicio_nav_menu">Junio</string>
+
+    <!-- Menu bottom Mi Calendario -->
+    <string name="inicio_nav_cal_menu">Junio</string>
+
+    <!-- Menu informacion -->
+    <string name="bottomInfoUbicacion">Ubicación</string>
+    <string name="bottomInfoSalones">Salones</string>
+    <string name="bottomInfoCafeterias">Cafeterías</string>
+    <string name="bottomInfoConstancia">Constancia</string>
+    <string name="bottomInfoComite">Comité</string>
+
+    <!-- Menu secundario -->
+    <string name="menu_main_about">Acerca de ...</string>
+    <string name="menu_main_config">Configuraciones</string>
+
+
+    <!-- Activity Evento Detalle -->
+    <string name="horario">Horario: </string>
+    <string name="salon">Salon: </string>
+    <string name="titulo_actividad">Titulo de la actividad: </string>
+    <string name="modalidad">Modalidad: </string>
+    <string name="tema">Tema de investigación: </string>
+    <string name="resumen">Resumen de la actividad: </string>
+
+    <string name="list_item_details_add">Agendar plenaria</string>
+</resources>

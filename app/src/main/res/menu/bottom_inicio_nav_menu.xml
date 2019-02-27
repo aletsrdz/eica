@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/dosCincoJunio_item"
+        android:title="@string/inicio_nav_menu"
+        android:icon="@drawable/dosCinco"/>
+    <item android:id="@+id/dosSeisJunio_item"
+        android:title="@string/inicio_nav_menu"
+        android:icon="@drawable/dosSeis"/>
+</menu>

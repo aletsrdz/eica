@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:drawable="@drawable/shape_item_menu_principal_selected"
+		android:state_checked="true"/>
+	<item android:drawable="@drawable/shape_item_menu_principal_unselected"/>
+</selector>
+<!-- este selecto solo aplica a objetos drawable, aqui cambia la imagen del elemento-->
